@@ -1,0 +1,18 @@
+.filterImage2 {
+  position: absolute;
+  left: -0;
+  top: 0;
+  width: 2642px;
+  height: 311px;
+
+  animation: move 10s infinite linear reverse;
+}
+
+@keyframes move {
+  0% {
+    left: -1287px;
+  }
+  100% {
+    left: 0px;
+  }
+}

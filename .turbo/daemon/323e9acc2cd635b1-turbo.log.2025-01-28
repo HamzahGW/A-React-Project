@@ -1,0 +1,21 @@
+2025-01-28T05:31:42.468382Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\1.cookie"), AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-01-28T05:31:42.468607Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-01-28T05:31:43.378602Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\landing\\vite.config.ts.timestamp-1738042303332-92f12c9e0a73c.mjs"), AnchoredSystemPathBuf("apps\\landing")}
+2025-01-28T05:31:43.378637Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("landing"), path: AnchoredSystemPathBuf("apps\\landing") }}))
+2025-01-28T05:31:43.465936Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\landing\\vite.config.ts.timestamp-1738042303332-92f12c9e0a73c.mjs"), AnchoredSystemPathBuf("apps\\landing")}
+2025-01-28T05:31:43.465965Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("landing"), path: AnchoredSystemPathBuf("apps\\landing") }}))
+2025-01-28T05:32:08.670759Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\daemon")}
+2025-01-28T05:32:08.670781Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-01-28T05:39:16.968444Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\ui-components\\src\\NavBar\\NavBar.tsx")}
+2025-01-28T05:39:16.968520Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@tx/ui-components"), path: AnchoredSystemPathBuf("packages\\ui-components") }}))
+2025-01-28T05:40:13.276406Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\ui-components\\src\\NavBar\\NavBar.tsx")}
+2025-01-28T05:40:13.276429Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@tx/ui-components"), path: AnchoredSystemPathBuf("packages\\ui-components") }}))
+2025-01-28T05:40:13.376092Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\ui-components\\src\\NavBar\\NavBar.tsx")}
+2025-01-28T05:40:13.376156Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@tx/ui-components"), path: AnchoredSystemPathBuf("packages\\ui-components") }}))
+2025-01-28T05:40:13.376233Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-01-28T05:44:44.769026Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\ui-components\\src\\NavBar\\NavBar.tsx")}
+2025-01-28T05:44:44.769063Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@tx/ui-components"), path: AnchoredSystemPathBuf("packages\\ui-components") }}))
+2025-01-28T05:45:21.470282Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\ui-components\\src\\NavBar\\NavBar.tsx")}
+2025-01-28T05:45:21.470302Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@tx/ui-components"), path: AnchoredSystemPathBuf("packages\\ui-components") }}))
+2025-01-28T05:50:42.968978Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\daemon\\323e9acc2cd635b1-turbo.log.2025-01-28")}
+2025-01-28T05:50:42.969063Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))

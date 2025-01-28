@@ -1,0 +1,13 @@
+{
+  "name": "@tx/tsconfig",
+  "version": "0.0.0",
+  "private": true,
+  "files": [
+    "base.json",
+    "react-library.json",
+    "vite.json"
+  ],
+  "dependencies": {
+    "vite": "^4.0.0"
+  }
+}

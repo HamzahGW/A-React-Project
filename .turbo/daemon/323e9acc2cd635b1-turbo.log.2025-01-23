@@ -1,0 +1,59 @@
+2025-01-23T08:01:27.076137Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies"), AnchoredSystemPathBuf(".turbo\\cookies\\1.cookie")}
+2025-01-23T08:01:27.076377Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-01-23T08:01:28.075601Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\landing\\vite.config.ts.timestamp-1737619288058-e0d105bf781a2.mjs")}
+2025-01-23T08:01:28.075625Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("landing"), path: AnchoredSystemPathBuf("apps\\landing") }}))
+2025-01-23T08:01:28.182150Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\landing\\vite.config.ts.timestamp-1737619288058-e0d105bf781a2.mjs"), AnchoredSystemPathBuf("apps\\landing")}
+2025-01-23T08:01:28.182174Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("landing"), path: AnchoredSystemPathBuf("apps\\landing") }}))
+2025-01-23T08:01:28.182273Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-01-23T08:03:43.378905Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\landing\\src\\views\\pages\\SharedLayout\\SharedLayout.tsx")}
+2025-01-23T08:03:43.378928Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("landing"), path: AnchoredSystemPathBuf("apps\\landing") }}))
+2025-01-23T08:08:03.781045Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\landing\\src\\views\\pages\\SharedLayout\\SharedLayout.tsx")}
+2025-01-23T08:08:03.781088Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("landing"), path: AnchoredSystemPathBuf("apps\\landing") }}))
+2025-01-23T08:08:40.678007Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\landing\\src\\views\\pages\\SharedLayout\\SharedLayout.tsx")}
+2025-01-23T08:08:40.678028Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("landing"), path: AnchoredSystemPathBuf("apps\\landing") }}))
+2025-01-23T08:08:40.785580Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\landing\\src\\views\\pages\\SharedLayout\\SharedLayout.tsx")}
+2025-01-23T08:08:40.785682Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("landing"), path: AnchoredSystemPathBuf("apps\\landing") }}))
+2025-01-23T08:08:40.785815Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-01-23T08:09:23.278292Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\landing\\src\\views\\pages\\SharedLayout\\SharedLayout.tsx")}
+2025-01-23T08:09:23.278366Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("landing"), path: AnchoredSystemPathBuf("apps\\landing") }}))
+2025-01-23T08:09:23.387939Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\landing\\src\\views\\pages\\SharedLayout\\SharedLayout.tsx")}
+2025-01-23T08:09:23.387956Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("landing"), path: AnchoredSystemPathBuf("apps\\landing") }}))
+2025-01-23T08:09:23.388146Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-01-23T08:09:48.279330Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\landing\\src\\views\\pages\\SharedLayout\\SharedLayout.tsx")}
+2025-01-23T08:09:48.279351Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("landing"), path: AnchoredSystemPathBuf("apps\\landing") }}))
+2025-01-23T08:10:02.477651Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\landing\\src\\views\\pages\\SharedLayout\\SharedLayout.tsx")}
+2025-01-23T08:10:02.477672Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("landing"), path: AnchoredSystemPathBuf("apps\\landing") }}))
+2025-01-23T08:17:30.377618Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\landing\\src\\views\\pages\\SharedLayout\\SharedLayout.tsx")}
+2025-01-23T08:17:30.377763Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("landing"), path: AnchoredSystemPathBuf("apps\\landing") }}))
+2025-01-23T08:17:30.476166Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\landing\\src\\views\\pages\\SharedLayout\\SharedLayout.tsx")}
+2025-01-23T08:17:30.476185Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("landing"), path: AnchoredSystemPathBuf("apps\\landing") }}))
+2025-01-23T08:17:30.476287Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-01-23T08:19:25.777472Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\landing\\src\\views\\pages\\SharedLayout\\SharedLayout.tsx")}
+2025-01-23T08:19:25.777496Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("landing"), path: AnchoredSystemPathBuf("apps\\landing") }}))
+2025-01-23T08:31:44.479232Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\daemon"), AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-01-23T08:31:44.479256Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-01-23T08:33:03.781280Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\landing\\src\\views\\pages\\SharedLayout\\SharedLayout.tsx")}
+2025-01-23T08:33:03.781310Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("landing"), path: AnchoredSystemPathBuf("apps\\landing") }}))
+2025-01-23T08:33:03.805344Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-01-23T08:44:39.579842Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\ui-components\\src\\NavBar\\NavBar.tsx")}
+2025-01-23T08:44:39.579866Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@tx/ui-components"), path: AnchoredSystemPathBuf("packages\\ui-components") }}))
+2025-01-23T08:44:39.678252Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\ui-components\\src\\NavBar\\NavBar.tsx")}
+2025-01-23T08:44:39.678269Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@tx/ui-components"), path: AnchoredSystemPathBuf("packages\\ui-components") }}))
+2025-01-23T08:44:39.678344Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-01-23T08:50:06.378877Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\ui-components\\src\\NavBar\\NavBar.tsx")}
+2025-01-23T08:50:06.378906Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@tx/ui-components"), path: AnchoredSystemPathBuf("packages\\ui-components") }}))
+2025-01-23T08:51:09.282004Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\ui-components\\src\\NavBar\\NavBar.tsx")}
+2025-01-23T08:51:09.282039Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@tx/ui-components"), path: AnchoredSystemPathBuf("packages\\ui-components") }}))
+2025-01-23T08:51:46.185946Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\ui-components\\src\\NavBar\\NavBar.tsx")}
+2025-01-23T08:51:46.185958Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@tx/ui-components"), path: AnchoredSystemPathBuf("packages\\ui-components") }}))
+2025-01-23T08:51:52.274289Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\landing\\src\\views\\pages\\SharedLayout\\SharedLayout.tsx")}
+2025-01-23T08:51:52.274315Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("landing"), path: AnchoredSystemPathBuf("apps\\landing") }}))
+2025-01-23T08:51:52.299691Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-01-23T08:53:34.578601Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\ui-components\\src\\NavBar\\NavBar.tsx")}
+2025-01-23T08:53:34.578613Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@tx/ui-components"), path: AnchoredSystemPathBuf("packages\\ui-components") }}))
+2025-01-23T08:54:00.774560Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\landing\\src\\views\\pages\\SharedLayout\\SharedLayout.tsx")}
+2025-01-23T08:54:00.774608Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("landing"), path: AnchoredSystemPathBuf("apps\\landing") }}))
+2025-01-23T08:54:44.479133Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\ui-components\\src\\NavBar\\NavBar.tsx")}
+2025-01-23T08:54:44.479149Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@tx/ui-components"), path: AnchoredSystemPathBuf("packages\\ui-components") }}))
+2025-01-23T08:54:48.283183Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\landing\\src\\views\\pages\\SharedLayout\\SharedLayout.tsx")}
+2025-01-23T08:54:48.283210Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("landing"), path: AnchoredSystemPathBuf("apps\\landing") }}))

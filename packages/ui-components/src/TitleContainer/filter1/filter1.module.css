@@ -1,0 +1,18 @@
+.filterImage {
+  position: absolute;
+  left: -0;
+  top: 0;
+  width: 2642px;
+  height: 311px;
+  /* object-fit: cover; */
+  animation: move 5s infinite linear;
+}
+
+@keyframes move {
+  0% {
+    left: -1287px;
+  }
+  100% {
+    left: 0px;
+  }
+}

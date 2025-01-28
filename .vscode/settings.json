@@ -1,0 +1,5 @@
+{
+  // "tailwindCSS.experimental.configFile": "apps/landing_page/tailwind.config.cjs",
+  "tailwindCSS.experimental.configFile": "apps/landing/tailwind.config.cjs"
+  // "tailwindCSS.experimental.configFile": "apps/landing_page/tailwind.config.cjs"
+}

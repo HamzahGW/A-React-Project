@@ -1,0 +1,7 @@
+export enum EtxProduct {
+  EQUITY = "EQUITY",
+  LANDING = "LANDING",
+  FUND_DISTRIBUTION = "FUND_DISTRIBUTION",
+  SUKUK = "SUKUK",
+  ATHEER = "ATHEER",
+}
